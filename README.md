@@ -1,8 +1,8 @@
-### Final Output Flutter Log In
+# Final Output Flutter Log In
 
 This is the final requirement for the subject CC 206 Application Development and Emerging Technologies.
 
-# Graphics' Axis Simple Animated Flutter Login Page and Home Page UI
+## Graphics' Axis Simple Animated Flutter Login Page and Home Page UI
 
 1. To log in, use the email: cictapps@wvsu.edu.ph and password: toor
 2. Incorrect or null email and password are not authorized to log in.
